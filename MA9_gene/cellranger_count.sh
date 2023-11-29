@@ -1,0 +1,1 @@
+cellranger count --id=WT --transcriptome=/media/user/sda/data/Xuxi_10xGenomics/3.MA9/MA9_10X --fastqs=/media/user/sda/data/Xuxi_10xGenomics/1.rawdata/WT --sample=WT_1,WT_2,WT_3,WT_4,WT_5,WT_6,WT_7,WT_8 --chemistry=SC3Pv3
